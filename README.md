@@ -1,7 +1,5 @@
 ![logo](logo.png)
 
-------------
-
 Adventure Test is a very small, very WIP game I'm making.
 
 **Dependencies**
