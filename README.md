@@ -2,7 +2,7 @@
 
 Adventure Test is a very small, very WIP game I'm making.
 
-Proudly AI-free
+Proudly AI-free.
 
 **Dependencies**
 
