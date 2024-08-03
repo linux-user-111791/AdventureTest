@@ -9,5 +9,7 @@ Proudly AI-free
 ------------
 
 python3
+
 python3-tk
+
 python-is-python3 (If running through Geany)
