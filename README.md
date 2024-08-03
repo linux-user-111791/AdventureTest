@@ -9,3 +9,5 @@ Adventure Test is a very small, very WIP game I'm making.
 python3
 python3-tk
 python-is-python3 (If running through Geany)
+
+Proudly AI-free.
